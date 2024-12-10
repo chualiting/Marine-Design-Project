@@ -1,11 +1,13 @@
 ## General Cargo
 ### 1.1 Mission Requirements
-Research and figure out the purpose of choosen vessel , refer to [README.md](README.md)
- for more info.
-1.2 Information on three sister's ship
+Research and figure out the purpose of choosen vessel , refer to [README.md](README.md) for more info.
+ 
+### 1.2 Information on three sister's ship
+Go to significant ship magazine and picked 3 of the same vessel type and list out all the information.
+![image](https://github.com/user-attachments/assets/04785b2e-4cd5-4b1e-8b8a-c81a45be8039)
 
+### 1.3 Finalized ship type
 
-1.3 Finalized ship type
 
 1.4 General Arrangement
 
