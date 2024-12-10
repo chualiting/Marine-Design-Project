@@ -1,6 +1,6 @@
 ## General Cargo
 ### 1.1 Mission Requirements
-Research and figure out the purpose of choosen vessel , refer to [Go to About Page](about.md)
+Research and figure out the purpose of choosen vessel , refer to [README.md](README.md)
  for more info.
 1.2 Information on three sister's ship
 
